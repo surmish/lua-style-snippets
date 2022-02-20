@@ -1,1 +1,1 @@
-autocmd FileType c lua require("snippets_in_lua/c")
+autocmd FileType c lua require("snippets/c")
